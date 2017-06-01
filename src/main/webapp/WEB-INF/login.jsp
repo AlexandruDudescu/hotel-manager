@@ -38,7 +38,7 @@
                         <input type="password" class="form-control" id="lg_password" name="password" placeholder="Parola">
                     </div>
                 </div>
-                <input type="submit" class="login-button"><i class="fa fa-chevron-right"></i>
+                <input type="submit" class="login-button" text=""><i class="fa fa-chevron-right"></i>
             </div>
             <div class="etc-login-form">
                 <p>Utilizator nou? <a href="./Register.jsp">Creati account</a></p>
